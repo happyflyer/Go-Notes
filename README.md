@@ -1,4 +1,6 @@
-# [Go 语言教程 | 菜鸟教程](https://www.runoob.com/go/go-tutorial.html)
+# [Go-Notes](https://github.com/happyflyer/Go-Notes)
+
+- [Go 语言教程 | 菜鸟教程](https://www.runoob.com/go/go-tutorial.html)
 
 ## 1. 变量
 
